@@ -8,7 +8,7 @@
 [ ] TODO
 
 # Learning Dynamics
-[**Deep Double Descent - openAI**](https://openai.com/blog/deep-double-descent/) #4
+#4 : [**Deep Double Descent - openAI**](https://openai.com/blog/deep-double-descent/)
 1. model-wise DD ; 더 큰 모델이 성능 하락으로 이어지는 regime 이 있다.
 2. Sample-wise non-monotonicity ; 더 많은 sample 이 성능 하락으로 이어지는 regime 이 있다.
 3. Epoch-wise double descent ; 더 많은 학습이 성능 하락으로 이어지는 regime 이 있다.
